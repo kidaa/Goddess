@@ -1,0 +1,2 @@
+# Goddess
+Goddess Affiliate
