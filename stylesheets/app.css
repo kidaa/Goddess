@@ -1,0 +1,119 @@
+body{
+	background-attachment:fixed;
+}
+
+.header{
+	background-image:url(../images/bg_header.png);
+	background-repeat:repeat-x;
+}
+
+.footerstyle{
+	border:6px solid #101820;
+	background-color:#101820;
+	color:#fff;
+	padding:20px;
+	margin-bottom:30px;
+	margin-top:50px;
+}
+
+.videocontent{
+	background-image:url(../images/goddess.jpg);
+	padding:50px 50px 30px 50px;
+	-webkit-box-shadow: inset 0px 0px 1px 1px #666;
+    box-shadow: inset 0px 0px 1px 1px #666;
+	color:#fff;
+	padding:20px;
+	margin-bottom:30px;
+}
+	
+.black{
+	background:#8f8f8f;
+}
+
+.black:hover {
+	background:#373737;
+}
+
+.sectiontitle{
+	background-image:url(../images/bg_sectiontitle.png);
+	background-position:0 22px;
+	background-repeat:repeat-x;
+	margin-top:40px;
+}
+
+.sectionheading{
+	margin:0 auto 50px;
+	line-height:1.8em;
+	background-color:#FFF;
+	color:#373737;
+	cursor:default;
+	border-radius:8px;
+	-webkit-border-radius:8px;
+	border-left:2px solid #CCC;  
+	border-right:2px solid #CCC;  
+}
+
+.video{
+	border:none;
+	width:auto;
+}
+
+.videobox{
+	-webkit-box-shadow: 0px 0px 2px 2px #666;
+    box-shadow: 0px 0px 2px 2px #666;
+	margin-top:14px;
+	margin-bottom:10px;
+	}	
+	
+.iconsize{
+	font-size:8em;
+	-webkit-transition:all 1s ease-in-out;
+	-moz-transition:all 1s ease-in-out;
+	-o-transition:all 1s ease-in-out;
+	transition:all 1s ease-in-out;
+	color:#b6b8bb;	
+}
+
+.iconsize:hover{
+	color:#b47ee0;
+	-webkit-transition:all 0.15s ease-in-out;
+	-moz-transition:all 0.15s ease-in-out;
+	-o-transition:all 0.15s ease-in-out;
+	transition:all 0.15s ease-in-out;	
+}	
+	
+.minisize{
+	font-size:1.6em;
+	-webkit-transition:all 1s ease-in-out;
+	-moz-transition:all 1s ease-in-out;
+	-o-transition:all 1s ease-in-out;
+	transition:all 1s ease-in-out;
+	color:#b6b8bb;	
+}
+
+.minisize:hover{
+	color:#b47ee0;
+	-webkit-transition:all 0.15s ease-in-out;
+	-moz-transition:all 0.15s ease-in-out;
+	-o-transition:all 0.15s ease-in-out;
+	transition:all 0.15s ease-in-out
+}	
+
+.iconcolumn{
+	-webkit-transition:all 1s ease-in-out;
+	-moz-transition:all 1s ease-in-out;
+	-o-transition:all 1s ease-in-out;
+	transition:all 1s ease-in-out;
+}
+
+.iconcolumn:hover {
+	background-color:#ececec;
+	-webkit-transition:all 0.15s ease-in-out;
+	-moz-transition:all 0.15s ease-in-out;
+	-o-transition:all 0.15s ease-in-out;
+	transition:all 0.15s ease-in-out;	
+}
+
+.footertext {
+color:#FFFFFF;
+}
